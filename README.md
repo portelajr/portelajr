@@ -1,10 +1,10 @@
 ## Um pouco sobre mim 👇
 
-- 🚩  Atualmente cursando formação técnica lá na <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>!
+- 🚩  Cursando formação técnica lá na <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>!
 <br>
 
 - 👨‍💻  Tenho estudado: conceitos e aplicações back-end com NODE.js/ Express.
-- 🧐  No meu histórico de pesquisas tem assuntos como Docker, Java, Arquitetura de Software, etc.
+- 🧐  No meu radar de pesquisas tem:  TypeScript, Docker, Arquitetura de Software.
 
 <br>
 
@@ -32,6 +32,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=portelajr&include_all_commits=true&count_private=true&hide=stars" />
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/portelajr/portelajr/blob/main/devcard.svg" width="250" alt="portelajr DevCard"/></a>
 </div>
 
 #
