@@ -27,8 +27,11 @@
   <img align="center" alt="git" height="70" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 </div>
 
+
 - Front-end: React.js; ReactRouter; Componentes controlados e gerenciamentos de estado; Redux; Context API e noções de ReactHooks.
+
 - Back-end: Node.js, Express, MySQL, MongoDB, Sequelize. 
+
 - Testes: Jest, Mocha, Sinon, Chai, ReactTesting.
 
 #
