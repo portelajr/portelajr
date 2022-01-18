@@ -3,7 +3,7 @@
 - 🚩  Cursando formação técnica lá na <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>!
 <br>
 
-- 👨‍💻  Tenho estudado: conceitos e aplicações back-end com NODE.js/ Express.
+- 👨‍💻  Tenho estudado: conceitos e noções em Python.
 - 🧐  No meu radar de pesquisas tem:  TypeScript, Docker, Arquitetura de Software.
 
 <br>
@@ -24,7 +24,8 @@
   <img align="center" alt="mongodb" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="mysql" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="nodejs" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="center" alt="git" height="70" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img align="center" alt="git" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img align="center" alt="python" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
 
 
@@ -34,6 +35,7 @@
 
 - Testes: Jest, Mocha, Sinon, Chai, ReactTesting.
 
+- Outras linguagens: Python
 #
 
 <div>
