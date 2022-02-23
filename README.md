@@ -3,8 +3,8 @@
 - 🚩  Cursando formação técnica lá na <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>!
 <br>
 
-- 👨‍💻  Tenho estudado: conceitos e noções em Python.
-- 📚 Próximos passos: Java, PHP, .NET.
+- 👨‍💻  Tenho estudado: Python, Programaçaõ Orientada a Objetos.
+- 📚 Próximos passos: Java, PHP.
 - 🧐  No meu radar de pesquisas tem:  Arquitetura, Docker, Kubernetes.
 
 <br>
