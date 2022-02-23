@@ -9,7 +9,7 @@
 
 <br>
 
-- 🧘‍🎮🍳 Fora das telas eu cozinho, me exercito, leio (e também volto pras telas pra jogar alguns games).
+- 🧘‍🎮🍳 Fora das telas eu cozinho, me exercito, leio (e também volto pras telas pra jogar alguns games =P ).
 
 
 #
