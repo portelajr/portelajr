@@ -4,7 +4,8 @@
 <br>
 
 - 👨‍💻  Tenho estudado: conceitos e noções em Python.
-- 🧐  No meu radar de pesquisas tem:  TypeScript, Docker, Arquitetura de Software.
+- 📚 Próximos passos: Java, PHP, .NET.
+- 🧐  No meu radar de pesquisas tem:  Arquitetura, Docker, Kubernetes.
 
 <br>
 
