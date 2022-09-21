@@ -1,11 +1,8 @@
 ## Um pouco sobre mim 👇
 
-- 🚩  Cursando formação técnica lá na <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Trybe</a>!
-<br>
-
-- 👨‍💻  Tenho estudado: Python, Programaçaõ Orientada a Objetos.
+- 👨‍💻  Tenho estudado: Python, Pramaçaõ Orientada a Objetos
 - 📚 Próximos passos: Java, PHP.
-- 🧐  No meu radar de pesquisas tem:  Arquitetura, Docker, Kubernetes.
+- 🧐  No meu radar de pesquisas tem:  Arquitetura, Design Patterns
 
 <br>
 
@@ -30,11 +27,11 @@
 </div>
 
 
-- Front-end: React.js; ReactRouter; Componentes controlados e gerenciamentos de estado; Redux; Context API e noções de ReactHooks.
+- Front-end: AngularJS ;React.js; ReactRouter;Redux; Context API e noções de ReactHooks.
 
-- Back-end: Node.js, Express, MySQL, MongoDB, Sequelize. 
+- Back-end: Node.js, Express, MySQL, MongoDB, Sequelize, Redis. 
 
-- Testes: Jest, Mocha, Sinon, Chai, ReactTesting.
+- Noções em testes: Jest, Mocha, Sinon, Chai, ReactTesting.
 
 - Outras linguagens: Python
 #
