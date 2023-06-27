@@ -19,9 +19,9 @@
 
 - Back-end: Node.js, Express, MySQL, MongoDB, Sequelize, Redis. 
 
-- Noções em testes: Jest, Mocha, Sinon, Chai, ReactTesting.
+- Tests: Jest, Mocha, Sinon, Chai, ReactTesting.
 
-- Outras linguagens: Python
+- Side Languagees: Python, Java.
 #
 
 <div>
