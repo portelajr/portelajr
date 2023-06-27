@@ -1,15 +1,3 @@
-## Um pouco sobre mim 👇
-
-- 👨‍💻  Tenho estudado: Python, Pramaçaõ Orientada a Objetos
-- 📚 Próximos passos: Java, PHP.
-- 🧐  No meu radar de pesquisas tem:  Arquitetura, Design Patterns
-
-<br>
-
-- 🧘‍🎮🍳 Fora das telas eu cozinho, me exercito, leio (e também volto pras telas pra jogar alguns games =P ).
-
-
-#
 
 ### Tecnologias e linguagens:
 
